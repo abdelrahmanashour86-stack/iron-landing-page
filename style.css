@@ -486,7 +486,12 @@ p {
         top: 50px;
         right: 35%;
     }
-    
+    .hero .container .left h2{
+        font-size: 40px;
+    }
+    .hero .container .left p{
+        font-size: 20px;
+    }
     
 }
 @media (max-width :700px) {
